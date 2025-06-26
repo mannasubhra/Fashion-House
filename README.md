@@ -1,7 +1,7 @@
 # Fashion House
 
 ## Overview
-Fashion Club is an innovative web application designed to bring the latest trends in fashion to your fingertips. Our platform allows users to explore, discover, and shop for a wide range of fashion items, from clothing to accessories. With a user-friendly interface and seamless navigation, we aim to enhance your shopping experience.
+Fashion House is an innovative web application designed to bring the latest trends in fashion to your fingertips. Our platform allows users to explore, discover, and shop for a wide range of fashion items, from clothing to accessories. With a user-friendly interface and seamless navigation, we aim to enhance your shopping experience.
 
 ## Features
 - **User Authentication**: Secure login and registration for users
@@ -11,7 +11,7 @@ Fashion Club is an innovative web application designed to bring the latest trend
 - **Search Functionality**: Quickly find your favorite products with our search feature
 
 ## Live Demo
-Check out the live version of the Fashion Club application here: [Fashion Club Live](https://fashion-club-2tnk.vercel.app/)
+Check out the live version of the Fashion House application here: [Fashion House Live](https://fashion-club-2tnk.vercel.app/)
 
 
 
@@ -158,10 +158,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📬 Contact
 
-**Name:** Satakratu Chakraborty  
-**Email:** [satakratu.madhu@gmail.com](mailto:satakratu.madhu@gmail.com)  
-**GitHub:** [satakratu6](https://github.com/satakratu6)
+**Name:** Subhradeep Manna  
+**Email:** [subhradeepmanna98@gmail.com](mailto:satakratu.madhu@gmail.com)  
+**GitHub:** [mannasubhra](https://github.com/mannasubhra?tab=packages)
 
 ---
 
-Thank you for checking out Fashion Club! We hope you enjoy your experience.
+Thank you for checking out Fashion House! We hope you enjoy your experience.
