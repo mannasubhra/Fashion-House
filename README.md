@@ -1,4 +1,4 @@
-# Fashion Club
+# Fashion House
 
 ## Overview
 Fashion Club is an innovative web application designed to bring the latest trends in fashion to your fingertips. Our platform allows users to explore, discover, and shop for a wide range of fashion items, from clothing to accessories. With a user-friendly interface and seamless navigation, we aim to enhance your shopping experience.
